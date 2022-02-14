@@ -5,7 +5,7 @@
     {
       "key": "wear",
       "value": {
-        "boneAttachment": "leftHand",
+        "boneAttachment": "leftFoot",
         "position": [-0.05, -0.1, -0.05],
         "quaternion": [0.7071067811865475, 0, 0, 0.7071067811865476],
         "scale": [0.3, 0.3, 0.3]
