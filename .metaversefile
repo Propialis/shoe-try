@@ -1,6 +1,6 @@
 {
   "name": "shoeLeft",
-  "start_url": "potion.glb",
+  "start_url": "shoeLeft.glb",
   "components": [
     {
       "key": "wear",
